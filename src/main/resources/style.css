@@ -1,0 +1,17 @@
+.button {
+    -fx-background-color: #0073e6;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #005bb5;
+}
+
+.text-area {
+    -fx-font-family: Consolas, monospace;
+    -fx-font-size: 12px;
+}
+
+
